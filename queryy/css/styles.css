@@ -1,0 +1,37 @@
+
+.tree ul {
+    margin-left: 20px;
+}
+
+
+#resizable {
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    padding: 10px;
+    resize: none;
+    overflow: auto;
+}
+
+.resizer {
+    width: 10px;
+    height: 10px;
+    background: gray;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    cursor: se-resize;
+}
+
+.tabl{
+    border: solid black;
+    
+}
+
+.boo{
+    border: solid black;
+    
+}
+
+
